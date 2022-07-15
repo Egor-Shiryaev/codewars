@@ -4,8 +4,8 @@
 
 // All inputs will be valid.
 
-let digits=(n)=> n.toString().length
+let digits = (n) => n.toString().length;
 
-  console.log(digits(5))
-  console.log(digits(12345))
-  console.log(digits(9876543210))
+console.log(digits(5));
+console.log(digits(12345));
+console.log(digits(9876543210));
